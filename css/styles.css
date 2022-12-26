@@ -199,6 +199,9 @@ header {
   margin-left: 50%;
   margin-top: 50px;
 }
+.portfolio__icon_second {
+  display: none;
+}
 
 /* ! Portfolio styles end */
 /* !Info-block start */
